@@ -1,4 +1,4 @@
-## OLÁ! Eu sou o Jander Todero
+## Olá! Eu sou o Jander Todero
 
 💻 Desenvolvedor Web
 📍 Brasil | 🚀 Projetos práticos com JavaScript, Node.js, React, Ruby on Rails, PostgreSQL e MongoDB
