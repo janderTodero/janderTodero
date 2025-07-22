@@ -1,25 +1,14 @@
 ## Olá! Eu sou o Jander Todero
+#Desenvolvedor Web 💻
 
-💻 Desenvolvedor Web
-📍 Brasil | 🚀 Projetos práticos com JavaScript, Node.js, React, Ruby on Rails, PostgreSQL e MongoDB
-
-Olá! Sou o Jander Todero, desenvolvedor web apaixonado por resolver problemas com código e transformar ideias em soluções funcionais. Estou em constante evolução, criando projetos para estudo e portfólio com foco em aplicações fullstack.
-
-💡 Tecnologias que domino:
-Linguagens & Frameworks: JavaScript, Node.js, Express.js, Ruby on Rails, React, Tailwind CSS
-
-Banco de Dados: MongoDB (com Mongoose), MongoDB Atlas, PostgreSQL (com Prisma).
-
-Outros: Git, GitHub, REST APIs, JWT, Vite, Context API, Hooks, Swiper.js
-
-Ferramentas & Versionamento: VS Code, Postman, Git, Figma (básico)
-
-📌 Atualmente:
-Desenvolvendo um Dashboard Financeiro Fullstack com Express, MongoDB e React
-
-Praticando integração com APIs públicas (TMDB, entre outras)
-
-Estudando padrões de autenticação, boas práticas e arquitetura de software
-
-📚 Estudante de Sistema da Informação
-🔎 Buscando oportunidades como Desenvolvedor Full Stack
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</div>
