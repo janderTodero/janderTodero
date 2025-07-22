@@ -6,7 +6,7 @@
 Olá! Sou o Jander Todero, desenvolvedor web apaixonado por resolver problemas com código e transformar ideias em soluções funcionais. Estou em constante evolução, criando projetos para estudo e portfólio com foco em aplicações fullstack.
 
 💡 Tecnologias que domino:
-Linguagens & Frameworks: JavaScript, Node.js, Express.js, React, Tailwind CSS
+Linguagens & Frameworks: JavaScript, Node.js, Express.js, Ruby on Rails, React, Tailwind CSS
 
 Banco de Dados: MongoDB (com Mongoose), MongoDB Atlas, PostgreSQL (com Prisma).
 
